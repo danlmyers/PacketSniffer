@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="PacketSniffer.AboutBox">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AboutBox.cs</FileName>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIIAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.ErrorHandle">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ErrorHandle.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.PacketRecievedEventArgs">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EventHandles.cs</FileName>
+      <HashCode>AAAAAAAgAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.PacketRecieveEvent">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EventHandles.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PacketSniffer.PacketRecieveEvent.PacketRecievedEAD">
+        <TypeIdentifier>
+          <NewMemberFileName>EventHandles.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="PacketSniffer.Listen">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Listen.cs</FileName>
+      <HashCode>AAIQAAAAAAAEIAAAAAEBAAAgAEAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.MainWindow">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainWindow.cs</FileName>
+      <HashCode>BYCABIABQCAEEFAAAACiiIACAQAAAAAAAgAEAAAQAIA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Delegate Name="PacketSniffer.MainWindow.Resultboxadd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainWindow.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="PacketSniffer.PacketHandler">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PacketHandler.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAIIAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.Program">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.IPData">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProtocolData.cs</FileName>
+      <HashCode>ACAAiABAAAVAAEAQAIAAEARBAADAACgEEAwAgAIAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.TCPData">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProtocolData.cs</FileName>
+      <HashCode>AbAAAAAAAAABAACEACAgAAACAAAIIIASIKAQAABQgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.ICMPData">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProtocolData.cs</FileName>
+      <HashCode>AAAAABAAAEAAAAAEAAAQAAAAAAAAAIAAAEAAIAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.UDPData">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProtocolData.cs</FileName>
+      <HashCode>AAAAAAAAAAACAAAEAAAAAAAAAAACAAAEAgAACAgBAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketSniffer.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
