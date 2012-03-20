@@ -14,7 +14,7 @@
     <ManifestCertificateThumbprint>D4A05FBAD176139708F05361FB888A42CBC9DECC</ManifestCertificateThumbprint>
     <ManifestKeyFile>PacketSniffer_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
